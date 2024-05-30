@@ -1,16 +1,14 @@
 # bmi
 
-A new Flutter project.
+This app is for calculate your miss body with a simplest  way: 
+BMI (Body Mass Index) is a measure that is commonly used to assess whether a person has a healthy body weight in relation to their height. It provides a rough estimate of body fat based on the height and weight of an individual.
 
-## Getting Started
+The formula to calculate BMI is as follows:
 
-This project is a starting point for a Flutter application.
+BMI = weight (kg) / (height (m))^2
+Home Screen:
+![Screenshot_1717073584](https://github.com/Malshehrim/BMI-App/assets/140311670/480802c2-8cda-417d-9087-7b147539c742)
 
-A few resources to get you started if this is your first Flutter project:
+Result Screen:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1717073676](https://github.com/Malshehrim/BMI-App/assets/140311670/dac1961b-cb6f-4b42-a9df-035d2cae5cb9)
