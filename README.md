@@ -6,7 +6,9 @@ BMI (Body Mass Index) is a measure that is commonly used to assess whether a per
 The formula to calculate BMI is as follows:
 
 BMI = weight (kg) / (height (m))^2
+<br>
 Home Screen:
+</br>
 ![Screenshot_1717073584](https://github.com/Malshehrim/BMI-App/assets/140311670/480802c2-8cda-417d-9087-7b147539c742)
 
 Result Screen:
